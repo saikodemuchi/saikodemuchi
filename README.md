@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/avatar.png" width="280" alt="avatar">
+<img src="./assets/chibi.png" width="280" alt="avatar">
 
 <br><br>
 
