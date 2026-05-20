@@ -2,8 +2,6 @@
 
 <img src="./assets/chibi.png" width="280" alt="avatar">
 
-<br><br>
-
 <a href="https://osu.ppy.sh/users/39785898">
   <img src="https://img.shields.io/badge/osu!-ff66ab" alt="osu!">
 </a>
